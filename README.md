@@ -1,6 +1,6 @@
 # Profile
 - 👋 Hi, I’m @LeMagiD
-- Studying in the Lucerne University of Applied Sciences and Arts
+- Studying at the Lucerne University of Applied Sciences and Arts
 - About to finish my Bachelors Degree in Electrical Engineering and Information Technology in early 2025
 
 # Interests
