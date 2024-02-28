@@ -9,10 +9,9 @@
 - Signal Processing  (Laplace and Fourier for the WIN!!)
 ## 🌱 I’m currently learning:
 - Writing in LaTeX / Markdown
-- Deepening my C Skills
-- Embedded Systems
 - Digital Signal Processing
-- Control Systems
+- AI Stuff
+- Image Processing
 
 # Other
 Using Github primarily for personal version control and sharing my progress with friends
