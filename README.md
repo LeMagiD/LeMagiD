@@ -1,17 +1,17 @@
 # Profile
 - 👋 Hi, I’m @LeMagiD
-- Studying at the Lucerne University of Applied Sciences and Arts
-- About to finish my Bachelors Degree in Electrical Engineering and Information Technology in early 2025
+- Got a Bachelors Degree in Electrical Engineering which i guess is cool
 
 # Interests
 - Programming (C, C#, Python)
 - Embedded Systems
-- Signal Processing  (Laplace and Fourier for the WIN!!)
+- Signal Processing (Laplace / Fourier <3)
+- ur mom
+
 ## 🌱 I’m currently learning:
-- Writing in LaTeX / Markdown
-- Digital Signal Processing
-- AI Stuff
-- Image Processing
+- Reverse engineering (for some legacy code at my workplace) 
+- Everything really
+- how NOT to use ChatGPT the moment i don't immediately know the solution to a problem
 
 # Other
 Using Github primarily for personal version control and sharing my progress with friends
